@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PictureRotateHandler</string>
+    <string name="rationale_location_contacts">获取外部写权限</string>
+</resources>
